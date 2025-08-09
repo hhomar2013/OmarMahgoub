@@ -511,7 +511,8 @@ a {
   background-size: cover;
   background-position: center center;
   background-repeat: repeat;
-  width: 100%; }
+  width: 100%; 
+}
   .cover-v1.gradient-bottom-black {
     position: relative; }
     .cover-v1.gradient-bottom-black:before {
